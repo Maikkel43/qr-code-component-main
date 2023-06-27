@@ -1,0 +1,24 @@
+.target {
+  width: 360px;
+  background-color: rgb(241, 241, 230);
+  padding: 20px;
+  border-radius: 1rem;
+  margin: auto;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.target .information {
+  text-align: justify;
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.target p {
+  font-weight: 50;
+  color: rgba(36, 36, 33, 0.533);
+}
+.target img {
+  width: 360px;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 1rem;
+}/*# sourceMappingURL=styles.css.map */
